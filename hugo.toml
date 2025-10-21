@@ -1,4 +1,26 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'es-es'
 title = 'My New Hugo Site'
-theme = 'poison'
+theme = 'm10c'
+
+
+[menu]
+	[[menu.main]]
+	name = "Inicio"
+	url = "/"
+	weight = 1
+
+	[[menu.main]]
+	name = "Cartas"
+	url = "/cartas/"
+	weight = 2
+
+	[[menu.main]]
+	name = "Mazos"
+	url = "/mazos/"
+	weight = 3
+
+	[[menu.main]]
+	name = "Campañas"
+	url = "/campanas/"
+	weight = 4
