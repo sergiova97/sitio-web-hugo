@@ -1,0 +1,4 @@
+<div class="character-summary">
+  <strong><a href="{{ .Get "link" }}">{{ .Get "name" }}</a></strong>
+  {{ with .Inner }}<p>{{ . | markdownify }}</p>{{ end }}
+</div>

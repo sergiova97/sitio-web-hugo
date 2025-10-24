@@ -1,0 +1,37 @@
+<li class="posts-list-item">
+    <a class="posts-list-item-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    
+    {{ with .Params.image }}
+        <a href="{{ $.RelPermalink }}">
+            <img src="{{ . }}" alt="{{ $.Title }}">
+        </a>
+    {{ end }}
+
+    {{ with .Params.summary }}
+        <p class="post-summary">{{ . }}</p>
+    {{ end }}
+
+    {{ with .Params.tags }}
+        <div class="posts-list-item-tags">
+            {{ range . }}
+                <span class="tag {{ . }}">{{ . }}</span>
+            {{ end }}
+        </div>
+    {{ end }}
+    
+    <span class="posts-list-item-description">
+        {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+        {{ .PublishDate.Format "Jan 2, 2006" }}
+    <span class="posts-list-item-separator">-</span>
+        {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
+        {{ .ReadingTime }} min read
+    </span>
+
+    {{ with .Site.Params.icon_attribution_link }}
+        <div class="icon-attribution">
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer">
+                {{ $.Site.Params.icon_attribution }}
+            </a>
+        </div>
+    {{ end }}
+</li>

@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <article>
+    {{ with .Title -}}<h1>{{- . -}}</h1>{{- end }}
+    {{ with .Content -}}<div class="post-content">{{- . -}}</div>{{- end }}
+    <ul class="posts-list">
+        {{ $featured := where .Site.RegularPages "Params.tags" "intersect" (slice "Destacado") }}
+        {{ if gt (len $featured) 0 }}
+            {{ range $featured }}
+                {{ partial "list-post-item.html" .}}
+            {{ end }}
+        {{ else }}
+            <li class="posts-list-item">
+                No hay posts destacados. Añade <code>Destacado</code> en los tags para mostrar posts aquí.
+            </li>
+        {{ end }}
+    </ul>
+    {{ partial "pagination.html" $ }}
+  </article>
+{{ end }}
