@@ -32,6 +32,21 @@
   color: #f8f8f8;
 }
 
+.posts-list-item .icon-attribution {
+  margin-top: 6px;
+  font-size: 0.75em;
+  color: #a3d9a5;
+}
+
+.posts-list-item .icon-attribution a {
+  text-decoration: underline;
+  color: #a3d9a5;
+}
+
+.posts-list-item .icon-attribution a:hover {
+  color: #57cc8a;
+}
+
 .post-backtotop {
   margin-top: 20px;
 }
@@ -70,13 +85,6 @@
   background-color: rgba(255, 72, 0, 0.1);
   border-left: 3px solid #ff2407;
   color: #ff2407;
-}
-
-.character-summary {
-  display: flex;
-  align-items: flex-start;
-  gap: 12px;
-  margin: 12px 0;
 }
 
 .theory-box {
