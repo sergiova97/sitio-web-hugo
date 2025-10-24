@@ -27,10 +27,10 @@
         {{ .ReadingTime }} min read
     </span>
 
-    {{ with .Site.Params.icon_attribution_link }}
+    {{ with .Params.icon_attribution_link }}
         <div class="icon-attribution">
             <a href="{{ . }}" target="_blank" rel="noopener noreferrer">
-                {{ $.Site.Params.icon_attribution }}
+                {{ $.Params.icon_attribution }}
             </a>
         </div>
     {{ end }}
