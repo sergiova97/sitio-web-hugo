@@ -3,6 +3,8 @@ languageCode = 'es-es'
 title = 'My New Hugo Site'
 theme = 'm10c'
 
+[params]
+	avatar = 'images/rheagar_lyanna.jpg'
 
 [menu]
 	[[menu.main]]
@@ -11,16 +13,16 @@ theme = 'm10c'
 	weight = 1
 
 	[[menu.main]]
-	name = "Cartas"
-	url = "/cartas/"
+	name = "Personajes"
+	url = "/personajes/"
 	weight = 2
 
 	[[menu.main]]
-	name = "Mazos"
-	url = "/mazos/"
+	name = "Tramas"
+	url = "/tramas/"
 	weight = 3
 
 	[[menu.main]]
-	name = "Campañas"
-	url = "/campanas/"
+	name = "Teorías"
+	url = "/teorias/"
 	weight = 4
