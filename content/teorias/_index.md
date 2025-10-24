@@ -1,10 +1,8 @@
 +++
 date = '2025-10-21T19:50:12+02:00'
 draft = true
-title = 'Campañas'
+title = 'Teorías'
 +++
-Esta es la página principal de TEORÍAS
-
 {{< alert type="warning" >}}
-¡Cuidado! Esta teoría es **solo especulación**.
+¡Aviso! Esta página está llena de spoilers de la saga y son solo especulaciones.
 {{< /alert >}}
