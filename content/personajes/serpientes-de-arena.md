@@ -4,6 +4,8 @@ draft = false
 title = 'Serpientes de arena'
 image = '/icons/snakes.png'
 tags = ['Destacado', 'Dorne', 'Trama dorniense', 'Serpientes']
+icon_attribution = 'Serpent icons created by Unknown Depths - Flaticon'
+icon_attribution_link = 'https://www.flaticon.com/free-icons/serpent'
 +++
 ### Hijas bastardas del príncipe Oberyn Martell, la Víbora Roja
 ![Las Serpientes de Arena con Oberyn Martell y Ellaria Arena](/images/sand_snakes.jpg)
@@ -39,7 +41,3 @@ Tras el fracaso, Doran demuestra que su aparente pasividad era una máscara y em
 ---
 
 Puedes saber más aquí: [Wiki of Ice And Fire: Sand Snakes](https://awoiaf.westeros.org/index.php/Sand_Snakes)
-
----
-
-[Serpent icons created by Unknown Depths - Flaticon](https://www.flaticon.com/free-icons/serpent)

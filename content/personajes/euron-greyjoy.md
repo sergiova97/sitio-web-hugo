@@ -3,7 +3,7 @@ date = '2025-10-22T16:30:13+02:00'
 draft = false
 title = 'Euron Greyjoy'
 image = '/icons/euron_greyjoy.png'
-tags = ['Euron', 'Islas del Hierro', 'Maldito', 'Pirata', 'Teror']
+tags = ['Destacado', 'Euron', 'Islas del Hierro', 'Maldito', 'Pirata', 'Teror']
 icon_attribution = 'Kraken icons created by max.icons - Flaticon'
 icon_attribution_link = 'https://www.flaticon.com/free-icons/kraken'
 +++
