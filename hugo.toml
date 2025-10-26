@@ -1,10 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'es-es'
-title = 'My New Hugo Site'
+title = 'Los Olvidados de Canción de Hielo y Fuego'
 theme = 'm10c'
 
 [params]
 	avatar = 'images/rheagar_lyanna.jpg'
+	description = 'Personajes y tramas olvidados y cambiados en la adaptación cinematográfica'
 
 [menu]
 	[[menu.main]]
