@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aguasdulces on My New Hugo Site</title><link>https://sergiova97.github.io/sitio-web-hugo/tags/aguasdulces/</link><description>Recent content in Aguasdulces on My New Hugo Site</description><generator>Hugo</generator><language>es-es</language><lastBuildDate>Fri, 24 Oct 2025 09:12:53 +0200</lastBuildDate><atom:link href="https://sergiova97.github.io/sitio-web-hugo/tags/aguasdulces/index.xml" rel="self" type="application/rss+xml"/><item><title>Lady Corazón de Piedra y la Hermandad sin Estandartes</title><link>https://sergiova97.github.io/sitio-web-hugo/tramas/lady-stoneheart/</link><pubDate>Fri, 24 Oct 2025 09:12:53 +0200</pubDate><guid>https://sergiova97.github.io/sitio-web-hugo/tramas/lady-stoneheart/</guid><description>Tras su muerte en la Boda Roja, Catelyn Stark regresa como Lady Corazón de Piedra, una figura vengativa que lidera a la Hermandad sin Estandartes en una cruzada de justicia implacable.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aguasdulces on My New Hugo Site</title>
+    <link>https://sergiova97.github.io/sitio-web-hugo/tags/aguasdulces/</link>
+    <description>Recent content in Aguasdulces on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 24 Oct 2025 09:12:53 +0200</lastBuildDate>
+    <atom:link href="https://sergiova97.github.io/sitio-web-hugo/tags/aguasdulces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lady Corazón de Piedra y la Hermandad sin Estandartes</title>
+      <link>https://sergiova97.github.io/sitio-web-hugo/tramas/lady-stoneheart/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:53 +0200</pubDate>
+      <guid>https://sergiova97.github.io/sitio-web-hugo/tramas/lady-stoneheart/</guid>
+      <description>Tras su muerte en la Boda Roja, Catelyn Stark regresa como Lady Corazón de Piedra, una figura vengativa que lidera a la Hermandad sin Estandartes en una cruzada de justicia implacable.</description>
+    </item>
+  </channel>
+</rss>
