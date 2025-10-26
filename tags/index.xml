@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 24 Oct 2025 09:15:05 +0200</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Destacado</title>
+      <link>https://example.org/tags/destacado/</link>
+      <pubDate>Fri, 24 Oct 2025 09:15:05 +0200</pubDate>
+      <guid>https://example.org/tags/destacado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dorne</title>
+      <link>https://example.org/tags/dorne/</link>
+      <pubDate>Fri, 24 Oct 2025 09:14:40 +0200</pubDate>
+      <guid>https://example.org/tags/dorne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Myrcella</title>
+      <link>https://example.org/tags/myrcella/</link>
+      <pubDate>Fri, 24 Oct 2025 09:14:40 +0200</pubDate>
+      <guid>https://example.org/tags/myrcella/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nymeria</title>
+      <link>https://example.org/tags/nymeria/</link>
+      <pubDate>Fri, 24 Oct 2025 09:14:40 +0200</pubDate>
+      <guid>https://example.org/tags/nymeria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serpientes</title>
+      <link>https://example.org/tags/serpientes/</link>
+      <pubDate>Fri, 24 Oct 2025 09:14:40 +0200</pubDate>
+      <guid>https://example.org/tags/serpientes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Invernalia</title>
+      <link>https://example.org/tags/invernalia/</link>
+      <pubDate>Fri, 24 Oct 2025 09:13:14 +0200</pubDate>
+      <guid>https://example.org/tags/invernalia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meñique</title>
+      <link>https://example.org/tags/me%C3%B1ique/</link>
+      <pubDate>Fri, 24 Oct 2025 09:13:14 +0200</pubDate>
+      <guid>https://example.org/tags/me%C3%B1ique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sansa</title>
+      <link>https://example.org/tags/sansa/</link>
+      <pubDate>Fri, 24 Oct 2025 09:13:14 +0200</pubDate>
+      <guid>https://example.org/tags/sansa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valle De Arryn</title>
+      <link>https://example.org/tags/valle-de-arryn/</link>
+      <pubDate>Fri, 24 Oct 2025 09:13:14 +0200</pubDate>
+      <guid>https://example.org/tags/valle-de-arryn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arianne</title>
+      <link>https://example.org/tags/arianne/</link>
+      <pubDate>Fri, 24 Oct 2025 09:13:08 +0200</pubDate>
+      <guid>https://example.org/tags/arianne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Martell</title>
+      <link>https://example.org/tags/martell/</link>
+      <pubDate>Fri, 24 Oct 2025 09:13:08 +0200</pubDate>
+      <guid>https://example.org/tags/martell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quentyn</title>
+      <link>https://example.org/tags/quentyn/</link>
+      <pubDate>Fri, 24 Oct 2025 09:13:08 +0200</pubDate>
+      <guid>https://example.org/tags/quentyn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aguasdulces</title>
+      <link>https://example.org/tags/aguasdulces/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:53 +0200</pubDate>
+      <guid>https://example.org/tags/aguasdulces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Catelyn</title>
+      <link>https://example.org/tags/catelyn/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:53 +0200</pubDate>
+      <guid>https://example.org/tags/catelyn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hermandad Sin Estandartes</title>
+      <link>https://example.org/tags/hermandad-sin-estandartes/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:53 +0200</pubDate>
+      <guid>https://example.org/tags/hermandad-sin-estandartes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resurrección</title>
+      <link>https://example.org/tags/resurrecci%C3%B3n/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:53 +0200</pubDate>
+      <guid>https://example.org/tags/resurrecci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tierras De Los Ríos</title>
+      <link>https://example.org/tags/tierras-de-los-r%C3%ADos/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:53 +0200</pubDate>
+      <guid>https://example.org/tags/tierras-de-los-r%C3%ADos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aegon VI</title>
+      <link>https://example.org/tags/aegon-vi/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:21 +0200</pubDate>
+      <guid>https://example.org/tags/aegon-vi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fuegoscuro</title>
+      <link>https://example.org/tags/fuegoscuro/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:21 +0200</pubDate>
+      <guid>https://example.org/tags/fuegoscuro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jon Connington</title>
+      <link>https://example.org/tags/jon-connington/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:21 +0200</pubDate>
+      <guid>https://example.org/tags/jon-connington/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Targaryen</title>
+      <link>https://example.org/tags/targaryen/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:21 +0200</pubDate>
+      <guid>https://example.org/tags/targaryen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Varys</title>
+      <link>https://example.org/tags/varys/</link>
+      <pubDate>Fri, 24 Oct 2025 09:12:21 +0200</pubDate>
+      <guid>https://example.org/tags/varys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meereen</title>
+      <link>https://example.org/tags/meereen/</link>
+      <pubDate>Wed, 22 Oct 2025 16:31:23 +0200</pubDate>
+      <guid>https://example.org/tags/meereen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Euron</title>
+      <link>https://example.org/tags/euron/</link>
+      <pubDate>Wed, 22 Oct 2025 16:30:13 +0200</pubDate>
+      <guid>https://example.org/tags/euron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Islas Del Hierro</title>
+      <link>https://example.org/tags/islas-del-hierro/</link>
+      <pubDate>Wed, 22 Oct 2025 16:30:13 +0200</pubDate>
+      <guid>https://example.org/tags/islas-del-hierro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maldito</title>
+      <link>https://example.org/tags/maldito/</link>
+      <pubDate>Wed, 22 Oct 2025 16:30:13 +0200</pubDate>
+      <guid>https://example.org/tags/maldito/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pirata</title>
+      <link>https://example.org/tags/pirata/</link>
+      <pubDate>Wed, 22 Oct 2025 16:30:13 +0200</pubDate>
+      <guid>https://example.org/tags/pirata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teror</title>
+      <link>https://example.org/tags/teror/</link>
+      <pubDate>Wed, 22 Oct 2025 16:30:13 +0200</pubDate>
+      <guid>https://example.org/tags/teror/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trama Dorniense</title>
+      <link>https://example.org/tags/trama-dorniense/</link>
+      <pubDate>Tue, 21 Oct 2025 20:32:33 +0200</pubDate>
+      <guid>https://example.org/tags/trama-dorniense/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

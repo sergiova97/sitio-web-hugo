@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Islas Del Hierro on My New Hugo Site</title>
+    <link>https://example.org/tags/islas-del-hierro/</link>
+    <description>Recent content in Islas Del Hierro on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 22 Oct 2025 16:30:13 +0200</lastBuildDate>
+    <atom:link href="https://example.org/tags/islas-del-hierro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euron Greyjoy</title>
+      <link>https://example.org/personajes/euron-greyjoy/</link>
+      <pubDate>Wed, 22 Oct 2025 16:30:13 +0200</pubDate>
+      <guid>https://example.org/personajes/euron-greyjoy/</guid>
+      <description>&lt;h3 id=&#34;capitán-de-el-silencio-rey-de-las-islas-del-hierro-y-del-norte-lord-segador-de-pyke&#34;&gt;Capitán de El Silencio, Rey de las Islas del Hierro y del Norte, Lord Segador de Pyke&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/euron_greyjoy.jpg&#34; alt=&#34;Euron Greyjoy&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Segundo hijo de &lt;strong&gt;Lord Quellon Greyjoy&lt;/strong&gt; con su segunda esposa &lt;strong&gt;Lady Sunderly&lt;/strong&gt; y el más apuesto de todos sus hermanos. Su ojo derecho es de un color azul como el cielo del verano, mientras que cubre su ojo izquierdo con un parche, un &lt;em&gt;&lt;strong&gt;ojo negro que brilla con malicia&lt;/strong&gt;&lt;/em&gt;, según Theon.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
