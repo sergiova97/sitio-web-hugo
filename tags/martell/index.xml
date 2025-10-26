@@ -1,26 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Martell on My New Hugo Site</title>
-    <link>https://example.org/tags/martell/</link>
-    <description>Recent content in Martell on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>es-es</language>
-    <lastBuildDate>Fri, 24 Oct 2025 09:13:08 +0200</lastBuildDate>
-    <atom:link href="https://example.org/tags/martell/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>La Trama Dorniense: Arianne, Quentyn y las Serpientes de Arena</title>
-      <link>https://example.org/tramas/dornish/</link>
-      <pubDate>Fri, 24 Oct 2025 09:13:08 +0200</pubDate>
-      <guid>https://example.org/tramas/dornish/</guid>
-      <description>Los planes secretos de Doran Martell, sus hijos y las Serpientes de Arena revelan la compleja red política de Dorne y su papel oculto en la lucha por el Trono de Hierro.</description>
-    </item>
-    <item>
-      <title>Quentyn Martell</title>
-      <link>https://example.org/personajes/quentyn-martell/</link>
-      <pubDate>Wed, 22 Oct 2025 16:31:23 +0200</pubDate>
-      <guid>https://example.org/personajes/quentyn-martell/</guid>
-      <description>&lt;h3 id=&#34;el-hijo-del-sol&#34;&gt;El hijo del sol&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/images/quentyn_martell.jpg&#34; alt=&#34;Quentyn Martell&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;quién-es&#34;&gt;Quién es&lt;/h2&gt;&#xA;&lt;p&gt;Quentyn Martell es el segundo hijo de Doran Martell y Lady Mellario de Norvos. Tiene una hermana mayor llamada &lt;strong&gt;Arianne&lt;/strong&gt; y un hermano menor llamado &lt;strong&gt;Trystane&lt;/strong&gt;. A edad muy temprana se puso al servicio de Anders Yronwood, a quien sirvió como paje hasta que se convirtió en su escudero.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;historia-en-las-novelas&#34;&gt;Historia en las novelas&lt;/h2&gt;&#xA;&lt;p&gt;Su padre Doran envía a Quentyn a Meereen a desposarse con &lt;strong&gt;Daenerys Targaryen&lt;/strong&gt; como parte de un pacto matrimonial firmado al poco de nacer esta. En este pacto, la familia Martell se comprometía a apoyar a Viserys Targaryen cuando regresara del otro lado del mar a cambio de que Arianne se casase con él. Sin embargo, tras las noticias de la muerte de Viserys, intentan hacer lo mismo con Quentyn y Daenerys.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Martell on My New Hugo Site</title><link>https://sergiova97.github.io/sitio-web-hugo/tags/martell/</link><description>Recent content in Martell on My New Hugo Site</description><generator>Hugo</generator><language>es-es</language><lastBuildDate>Fri, 24 Oct 2025 09:13:08 +0200</lastBuildDate><atom:link href="https://sergiova97.github.io/sitio-web-hugo/tags/martell/index.xml" rel="self" type="application/rss+xml"/><item><title>La Trama Dorniense: Arianne, Quentyn y las Serpientes de Arena</title><link>https://sergiova97.github.io/sitio-web-hugo/tramas/dornish/</link><pubDate>Fri, 24 Oct 2025 09:13:08 +0200</pubDate><guid>https://sergiova97.github.io/sitio-web-hugo/tramas/dornish/</guid><description>Los planes secretos de Doran Martell, sus hijos y las Serpientes de Arena revelan la compleja red política de Dorne y su papel oculto en la lucha por el Trono de Hierro.</description></item><item><title>Quentyn Martell</title><link>https://sergiova97.github.io/sitio-web-hugo/personajes/quentyn-martell/</link><pubDate>Wed, 22 Oct 2025 16:31:23 +0200</pubDate><guid>https://sergiova97.github.io/sitio-web-hugo/personajes/quentyn-martell/</guid><description>&lt;h3 id="el-hijo-del-sol"&gt;El hijo del sol&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://sergiova97.github.io/sitio-web-hugo/images/quentyn_martell.jpg" alt="Quentyn Martell"&gt;&lt;/p&gt;
+&lt;h2 id="quién-es"&gt;Quién es&lt;/h2&gt;
+&lt;p&gt;Quentyn Martell es el segundo hijo de Doran Martell y Lady Mellario de Norvos. Tiene una hermana mayor llamada &lt;strong&gt;Arianne&lt;/strong&gt; y un hermano menor llamado &lt;strong&gt;Trystane&lt;/strong&gt;. A edad muy temprana se puso al servicio de Anders Yronwood, a quien sirvió como paje hasta que se convirtió en su escudero.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="historia-en-las-novelas"&gt;Historia en las novelas&lt;/h2&gt;
+&lt;p&gt;Su padre Doran envía a Quentyn a Meereen a desposarse con &lt;strong&gt;Daenerys Targaryen&lt;/strong&gt; como parte de un pacto matrimonial firmado al poco de nacer esta. En este pacto, la familia Martell se comprometía a apoyar a Viserys Targaryen cuando regresara del otro lado del mar a cambio de que Arianne se casase con él. Sin embargo, tras las noticias de la muerte de Viserys, intentan hacer lo mismo con Quentyn y Daenerys.&lt;/p&gt;</description></item></channel></rss>
