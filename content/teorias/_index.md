@@ -1,6 +1,6 @@
 +++
 date = '2025-10-21T19:50:12+02:00'
-draft = true
+draft = false
 title = 'Teorías'
 +++
 En esta página repasaremos algunas de las teorías más conocidas y otras no tan conocidas de la serie de novelas.

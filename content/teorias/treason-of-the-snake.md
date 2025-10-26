@@ -1,6 +1,6 @@
 +++
 date = '2025-10-24T09:14:40+02:00'
-draft = true
+draft = false
 title = 'La Traición de la Serpiente en el Consejo Privado'
 tags = ['Dorne', 'Serpientes', 'Myrcella', 'Nymeria']
 summary = 'Dos Serpientes en Desembarco del Rey podrían resultar decisivas en las muertes de los últimos hijos de Cersei Lannister.'

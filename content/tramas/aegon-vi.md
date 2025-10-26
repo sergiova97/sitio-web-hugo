@@ -1,6 +1,6 @@
 +++
 date = '2025-10-24T09:12:21+02:00'
-draft = true
+draft = false
 title = 'El supuesto Aegon VI y su reclamo al Trono de Hierro'
 tags = ['Destacado', 'Targaryen', 'Aegon VI', 'Jon Connington', 'Varys', 'Dorne', 'Fuegoscuro']
 summary = 'El regreso del supuesto hijo de Rhaegar Targaryen, criado en secreto por Jon Connington, reabre el juego por el Trono de Hierro y desafía la legitimidad de Daenerys y los Lannister.'

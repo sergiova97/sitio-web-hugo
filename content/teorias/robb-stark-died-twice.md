@@ -1,6 +1,6 @@
 +++
 date = '2025-10-24T09:15:05+02:00'
-draft = true
+draft = false
 title = 'Robb Stark murió dos veces en la Boda Roja'
 tags = ['Destacado']
 summary = 'Robb Stark consiguió meterse en la mente de su huargo al morir, para volver a morir poco después.'
